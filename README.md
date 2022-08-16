@@ -2,7 +2,7 @@
 
 # Purpose of this study:
 
-To analyze data using Python, covering the following topis:
+To analyze data using Python, covering the following topics:
 - descriptive statistics;
 - models analysis such as multiple linear regression and polynomial regression;
 - exploring target variable prediction based on two final independente variables;
